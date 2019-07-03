@@ -370,6 +370,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/GAIReporter/Libraries",
+					"$(PROJECT_DIR)/GAIReporter",
 				);
 				MODULEMAP_FILE = GAIReporter/Modules/module.modulemap;
 				PRODUCT_BUNDLE_IDENTIFIER = CBS.GAIReporter;
@@ -402,6 +403,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/GAIReporter/Libraries",
+					"$(PROJECT_DIR)/GAIReporter",
 				);
 				MODULEMAP_FILE = GAIReporter/Modules/module.modulemap;
 				PRODUCT_BUNDLE_IDENTIFIER = CBS.GAIReporter;
