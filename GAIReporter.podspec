@@ -24,6 +24,9 @@ s.source = { :git => "https://github.com/SvetlanaTs/GAIReporter.git",
 :tag => "#{s.version}" }
 
 # 7
+s.source_files = "GAIReporter/**/*.{h}"
+
+# 8
 s.swift_version = "5.0"
 
 end
