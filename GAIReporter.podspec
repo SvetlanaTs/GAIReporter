@@ -23,15 +23,10 @@ s.homepage = "https://github.com/SvetlanaTs/GAIReporter"
 s.source = { :git => "https://github.com/SvetlanaTs/GAIReporter.git",
 :tag => "#{s.version}" }
 
-<<<<<<< HEAD
 # 7 - Frameworks, libraries and dependencies
 s.vendored_libraries = "GAIReporter/*.a"
 s.frameworks = ['CoreData', 'SystemConfiguration', 'AdSupport']
 s.libraries = ['z', 'sqlite3']
-=======
-# 7
-s.source_files = "GAIReporter/**/*.{h}"
->>>>>>> 86a9d2fe8123f141b25596755c8564297604df91
 
 # 8
 s.source_files = "GAIReporter/*"
